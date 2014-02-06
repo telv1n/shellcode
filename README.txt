@@ -1,0 +1,1 @@
+This repository is used to house shellcode that I have written while studying exploits 1 on http://www.opensecuritytraining.info.
