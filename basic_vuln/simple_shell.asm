@@ -1,4 +1,4 @@
-;simple_shell.asm is the assembly file used to create basic shellcode. It makes a call to execve that executes /bin/sh, spawning a terminal.
+; simple_shell.asm is an assembly file I created which contains basic shellcode. It makes a call to execve that executes /bin/sh, spawning a terminal.
 ; AUTHOR: Keith S.
 
 section .data
